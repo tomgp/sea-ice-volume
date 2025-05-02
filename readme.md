@@ -1,4 +1,4 @@
-# Sea ice volume data
+# ice volume data
 
 APL/PSC PIOMAS, regularly updated [Arctic sea ice volume CSV](source/volume-north/PIOMAS.monthly.Current.v2.1.csv) from 
  * http://psc.apl.uw.edu/research/projects/arctic-sea-ice-volume-anomaly/data/
